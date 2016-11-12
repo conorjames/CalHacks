@@ -2,14 +2,14 @@ html, body{
 	font-family: Helvetica;
 	background-color: grey;
 	color: white;
-	background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/14883427_10206473869399536_2326562712514109124_o.jpg");
+	background-image: url("http://i.imgur.com/W1uAwyR.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 a{
-	color: green;
+	color: gold;
 }
 
 #profile-pic{
@@ -28,19 +28,6 @@ a{
 	margin-top: 55px;
 }
 
-#doc{
-	height: 100px;
-    width: 300px;
-    padding: 10px;
-    z-index: 0;
-    outline: none;
-    color: white;
-    font-family: Helvetica;
-    font-size: 17px;
-    float: right;
-    background-color: #34495e;
-    margin-top: 30px;
-}
 
 ::-webkit-scrollbar {
     display: none;
