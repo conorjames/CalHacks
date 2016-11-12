@@ -2,15 +2,21 @@ html, body{
 	font-family: Helvetica;
 	background-color: grey;
 	color: white;
+	/*background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/14883427_10206473869399536_2326562712514109124_o.jpg");
+	*/
+	background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/14883427_10206473869399536_2326562712514109124_o.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
-
 a{
 	color: green;
 }
 
 #profile-pic{
 	max-height: 400;
-	margin-top: 25px;
+	margin-top: -30px;
 	margin-left: 25%;
 	margin-right: 25%;
 }
@@ -34,4 +40,8 @@ a{
     font-size: 20px;
     float: right;
     background-color: #34495e;
+}
+
+::-webkit-scrollbar {
+    display: none;
 }
