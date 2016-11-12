@@ -2,5 +2,13 @@
 
 body {
    font-family: Times New Roman;
-   background-image: url("IMG_2119.jpg");
+   
+}
+
+html {
+   background: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/15027788_10206473869399536_2326562712514109124_n.jpg?oh=29f9d58b501dca5f0f7283cf2a06c31a&oe=58C3B991");
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
 }
