@@ -10,13 +10,13 @@ html, body{
 }
 a{
 	color: gold;
+	margin-right: 20px;
 }
 
 #profile-pic{
-	max-height: 400;
-	margin-top: -10px;
-	margin-left: 25%;
-	margin-right: 25%;
+	max-height: 800;
+	margin-top: 20px;
+	margin-left: 10%;
 }
 
 .section{
@@ -24,7 +24,7 @@ a{
 }
 
 #school{
-	color: white;
+	color: gold;
 	margin-top: 55px;
 }
 
