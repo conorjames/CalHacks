@@ -1,0 +1,37 @@
+html, body{
+	font-family: Helvetica;
+	background-color: grey;
+	color: white;
+}
+
+a{
+	color: green;
+}
+
+#profile-pic{
+	max-height: 400;
+	margin-top: 25px;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.section{
+	margin: 100px;
+}
+
+#school{
+	color: white;
+}
+
+#doc{
+	height: 100px;
+    width: 300px;
+    padding: 10px;
+    z-index: 0;
+    outline: none;
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    float: right;
+    background-color: #34495e;
+}
