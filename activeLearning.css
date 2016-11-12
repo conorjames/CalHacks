@@ -16,17 +16,18 @@ a{
 
 #profile-pic{
 	max-height: 400;
-	margin-top: -30px;
+	margin-top: -10px;
 	margin-left: 25%;
 	margin-right: 25%;
 }
 
 .section{
-	margin: 100px;
+	margin-left: 95px;
 }
 
 #school{
 	color: white;
+	margin-top: 55px;
 }
 
 #doc{
@@ -37,9 +38,10 @@ a{
     outline: none;
     color: white;
     font-family: Helvetica;
-    font-size: 20px;
+    font-size: 17px;
     float: right;
     background-color: #34495e;
+    margin-top: 30px;
 }
 
 ::-webkit-scrollbar {
