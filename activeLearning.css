@@ -2,8 +2,6 @@ html, body{
 	font-family: Helvetica;
 	background-color: grey;
 	color: white;
-	/*background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/14883427_10206473869399536_2326562712514109124_o.jpg");
-	*/
 	background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/14883427_10206473869399536_2326562712514109124_o.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
