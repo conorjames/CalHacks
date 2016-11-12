@@ -1,10 +1,26 @@
 
 
 body {
-   font-family: Times New Roman;
+   font-family: arial, sans-serif;
    color: white;
-   margin: 50%;
+   text-align: center;
 }
+
+#nav {
+   width: 500px;
+   height: 200px;
+   margin: 30%;
+   opacity: 0.6;
+}   
+
+#nav_wrapper {
+   height: 170px;
+   width: 400px;
+   background: #42656b;
+   margin: 15%;
+   text-align: center;
+   opacity: 20.0;
+}   
 
 html {
    background: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/15027788_10206473869399536_2326562712514109124_n.jpg?oh=29f9d58b501dca5f0f7283cf2a06c31a&oe=58C3B991");
