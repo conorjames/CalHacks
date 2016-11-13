@@ -1,0 +1,28 @@
+body { color: white; }
+
+html {
+   background: url("http://www.rfd.com/images/sized/images/photos/projects/Cal_Poly_SLO_Math__Sci_Cntr_pic_2-640x360.jpg");
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+
+}
+h {
+   color: white;
+}
+
+
+p {
+   color: white;
+   size: 17px;
+}
+
+table {
+   width: 1000px;
+   height: 200px;
+   margin: 20%;
+   background: #42656b;
+   opacity: 0.7;
+}
+
